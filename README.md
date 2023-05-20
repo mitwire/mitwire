@@ -1,10 +1,10 @@
 👋Hello, im mitwire!
 
-🧙‍♂️  - https://mitwire.com/ 
+🧙‍♂️ - https://mitwire.com/ 
 ---------------------------------
-✉️  - contact@mitwire.com
+✉️ - contact@mitwire.com
 ---------------------------------
 ⏰ - (GMT+10) Sydney
 ---------------------------------
-🧑‍💻 Javascript | HTML | & CSS
+🧑‍💻 - Javascript | HTML | & CSS
 ---------------------------------
