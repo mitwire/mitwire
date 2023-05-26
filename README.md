@@ -25,6 +25,8 @@ You can reach me on a few platforms such as:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mitwire&show_icons=true&theme=radical)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitwire&theme=radical)
+ 
+ <img src="https://komarev.com/ghpvc/?username=mitwire" alt="" align="center" />
 
 
 
