@@ -7,7 +7,9 @@ I'm a curious devoloper who does websites and software as a side hobby. I do alo
 + Avid GNU/Linux enjoyer
 + I live in Sydney, Australia
 # 📚 Projects
-A few projects that I have fully built are:
+A few projects that I have done and are still working on are:
+
+(WIP) [`makeitaflag`](https://github.com/mitwire/makeitaflag) - Makeitaflag is an open-source website that can convert any image file into a waving flag gif
 
 [`delinquent-bot`](https://github.com/mitwire/delinquent-bot) - An open source multipurpose Discord bot built using discord.js with image, utility, and more commands.
 
