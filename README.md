@@ -15,7 +15,7 @@ A few projects that I have done and are still working on are:
 
 [`mitwire.com`](https://github.com/mitwire/mitwire.com) - Stylish, clean, and simple website for my all of my social links, and coming soon, a blog of some sort.
 
-More coming very soon!
+More coming soon!
 
 
 # 📫 Contact Me
