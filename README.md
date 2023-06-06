@@ -2,7 +2,7 @@
 I'm a curious devoloper who does websites and software as a side hobby. I do alot of `Javascript`, `HTML`, and `CSS`. I am currently interested in learning languages such as `Go` & `Typescript`.
 # 👉 About Me
 + Started programming in 2019
-+ Interested to colaborate on projects with other people
++ Willing to colaborate on projects with other people
 + Enthusiast of generative AI (Working on a project using it)
 + Avid GNU/Linux enjoyer
 + I live in Sydney, Australia
