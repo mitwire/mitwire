@@ -20,7 +20,7 @@ More coming soon!
 You can reach me on a few platforms such as:
 - Discord: [`@mitwire`](https://discordapp.com/users/629358391877435412)
 - Twitter: [`@mitwire`](https://twitter.com/mitwire)
-- Mail: contact@mitwire.com | mitwirebiz@gmail.com 
+- Mail: contact@mitwire.com | mitwirebiz@gmail.com
 
 # 📊 Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mitwire&show_icons=true&theme=radical)
