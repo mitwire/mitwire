@@ -1,5 +1,6 @@
 # 👋 Hello there, im mitwire! 
 I'm a curious devoloper who does websites and software as a side hobby. I do alot of `Javascript`, `HTML`, and `CSS`. I am currently interested in learning languages such as `Go` & `Typescript`.
+
 # 👉 About Me
 + Started programming in 2019
 + Willing to colaborate on projects with other people
