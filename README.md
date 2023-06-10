@@ -1,13 +1,14 @@
 # 👋 Hello there, im mitwire! 
-I'm a curious devoloper who does websites and software as a side hobby. I do alot of `Javascript`, `HTML`, and `CSS`. I am currently interested in learning languages such as `Go` & `Rust`.
+I'm a curious devoloper who does websites and software as a hobby. I do alot of `Javascript`, `HTML`, and `CSS`. I am currently interested in learning languages such as `Go` & `Rust`.
 
 [![~](https://spotify-github-profile.vercel.app/api/view?uid=gsrim9cqizslza8dz1wv21h07&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-# 👉 About Me
+# 👉 Few Things About Me
 + Started programming in 2019
 + Willing to colaborate on projects with other people
 + Enthusiast of generative AI (Working on a project using it)
 + Avid GNU/Linux enjoyer
 + I live in Sydney, Australia
++ I like cats
 # 📚 Projects
 A few projects that I have done and are still working on are:
 
