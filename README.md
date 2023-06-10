@@ -8,7 +8,6 @@ I'm a curious devoloper who does websites and software as a hobby. I do alot of 
 + Enthusiast of generative AI (Working on a project using it)
 + Avid GNU/Linux enjoyer
 + I live in Sydney, Australia
-+ I like cats
 # 📚 Projects
 A few projects that I have done and are still working on are:
 
@@ -25,7 +24,7 @@ More coming soon!
 You can reach me on a few platforms such as:
 - Discord: [`@mitwire`](https://discordapp.com/users/629358391877435412)
 - Twitter: [`@mitwire`](https://twitter.com/mitwire)
-- Mail: contact@mitwire.com | mitwirebiz@gmail.com
+- Mail: [`contact@mitwire.com`](mailto:contact@mitwire.com) | [`mitwirebiz@gmail.com`](mailto:mitwirebiz@gmail.com)
 
 # 📊 Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mitwire&show_icons=true&theme=radical)
