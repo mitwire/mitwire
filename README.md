@@ -10,13 +10,12 @@ I'm a developer who does all types of websites and software as a hobby. I do alo
 # 📚 Projects
 A few projects that I have done and are still working on are:
 
-[`mitwire.com`](https://github.com/mitwire/mitwire.com) - Stylish, clean, and simple website for my all of my social links, and coming soon, a blog of some sort.
+- [`mitwire.com`](https://github.com/mitwire/mitwire.com) - Stylish, clean, and simple website for my all of my social links, and coming soon, a blog of some sort.
 
-[`delinquent-bot`](https://github.com/mitwire/delinquent-bot) - An open source multipurpose Discord bot built using discord.js with image, utility, and more commands.
+- [`delinquent-bot`](https://github.com/mitwire/delinquent-bot) - An open source multipurpose Discord bot built using discord.js with image, utility, and more commands.
 
-[`enhancify`](https://github.com/mitwire/enhancify) - The easiest way to upscale your favourite images using AI
+- [`enhancify`](https://github.com/mitwire/enhancify) - The easiest way to upscale your favourite images using AI
 
-More coming soon!
 
 
 # 📫 Contact Me
