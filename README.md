@@ -1,5 +1,5 @@
 # 👋 Hello there, im mitwire! 
-I'm a curious devoloper who does websites and software as a hobby. I mainly do alot of `Javascript`, `HTML`, and `CSS`. 
+I'm a curious developer who does websites and software as a hobby. I mainly do alot of `Javascript`, `HTML`, and `CSS`. 
 [![~](https://spotify-github-profile.vercel.app/api/view?uid=gsrim9cqizslza8dz1wv21h07&cover_image=true&theme=novatorem&bar_color_cover=truedefault&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 # 👉 Few Things About Me
 + Started programming in 2019
