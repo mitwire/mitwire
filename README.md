@@ -4,7 +4,7 @@ I'm a developer who does all types of websites and software as a hobby. I do alo
 
 # 👉 Few Things About Me
 + Started programming in 2019
-+ Willing to colaborate on projects with other people
++ Music Enjoyer
 + Enthusiast of generative AI (working on a project using it)
 + Avid GNU/Linux enjoyer
 + I live in Sydney, Australia
